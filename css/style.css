@@ -1,0 +1,24 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+h2{
+    color: azure;
+    font-size: large;
+    font-style: initial;
+}
+body{
+background-image: url(https://plus.unsplash.com/premium_photo-1664301969414-d8435c2b91bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI4fGFldTZyTC1qNmV3fHxlbnwwfHx8fHw%3D);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 100vh;
+width: 100%;
+font-weight: bolder;
+font-size: xx-large;
+}
+h3{
+    color: aquamarine;
+    font-style: normal;
+    font-size: large;
+}
